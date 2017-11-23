@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "307956352662",
+    "firebase_url": "https://fitnessmonkey-7d6bc.firebaseio.com",
+    "project_id": "fitnessmonkey-7d6bc",
+    "storage_bucket": "fitnessmonkey-7d6bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307956352662:android:293a31717802e04a",
+        "android_client_info": {
+          "package_name": "com.fih.scu.fitnessmonkey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307956352662-0kafone7is6u7nq208rf5qvgt7s03sej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fih.scu.fitnessmonkey",
+            "certificate_hash": "592e90f601292b3bf1b233b07dcfc5bdbc87b2ec"
+          }
+        },
+        {
+          "client_id": "307956352662-d5r7a6jg3iuik2lrgd3v5soi38h631ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCOdxF3EYyWTV31g2i0hMNd7yl8Qhauqg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307956352662-d5r7a6jg3iuik2lrgd3v5soi38h631ik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
